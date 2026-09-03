@@ -26,6 +26,17 @@ ok so day 2 and this day was the last day of the speed run i stared of by replac
 <img width="793" height="553" alt="image" src="https://github.com/user-attachments/assets/d64e6efe-e8f2-4235-a7b1-a3b53af085d5" />
 <img width="157" height="59" alt="image" src="https://github.com/user-attachments/assets/fd9f9ade-948f-45a4-8636-133c751803b3" />
 
+# September 3rd: Polishing and submitting
+
+So, i was asked to do some changes for the speedrun and i did not have much time in that time so now its been a while and i decided to submit this to forge instead. Today i have made the readme.md better and made the BOM better too as well as making the devboard on the pcb a different shape to the usb-c cable goes in easily. i hope that this gets reviewed in 15 days cuz then i will lose my coupon for JLC pcb anyways so i am going to add the pcb cost in the BOM and then submit and hope for the best also i have added the screenshots of the cart which tells all the funding i need.
+
+<img width="449" height="371" alt="image" src="https://github.com/user-attachments/assets/fadc123e-4eb2-4f00-b4fd-076548f1f82c" />
+<img width="479" height="353" alt="image" src="https://github.com/user-attachments/assets/9cc68c8c-b44c-447e-b6da-9ce4b6c509c4" />
+
+**Total time spent: 1.5h**
+
+
+
 
 
 
