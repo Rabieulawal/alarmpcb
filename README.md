@@ -79,6 +79,8 @@ The bom is also present in BOM.csv as well as here also i need to buy some compo
 | **GRAND TOTAL** | - | - | - | - | **251** | - | **45.12** | - |
 
 
-made in easyeda
-total price aproxx 43$ (as of aug 2026 with voulcher from jlc too)
+made in easyeda for hackclub :)
+
+ 
+ 
  made for hackclub 
