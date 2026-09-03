@@ -52,23 +52,22 @@ Follow these steps to upload the firmware and sound files to your ESP32-S3 using
 
      the bom is also present in BOM.csv as well as here
 
-     | LCSC# | MPN | Manufacturer | Package | Description | Quantity | Unit Price ($) | Extended Price ($) | Product Link |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| C49304925 | 330uF10V6.3x11GF | Econd | Through Hole,D6.3xL11mm | 10V ±20% 330uF 140mΩ Through Hole,D6.3xL11mm Aluminum Electrolytic Capacitors | 20 | 0.0225 | 0.45 | [Link](https://www.lcsc.com/product-detail/C49304925.html) |
-| C2840026 | CG100ME511BPTWBOR | | Through Hole,D5xL11mm | 10uF 25V Aluminum Electrolytic Capacitors Through Hole,D5xL11mm 2000hrs@105℃ | 50 | 0.0131 | 0.66 | [Link](https://www.lcsc.com/product-detail/C2840026.html) |
-| C436244 | FM32X104K101EMGPSA | | 1210 | 100nF ±10% 100V Ceramic Capacitor X7R 1210 | 10 | 0.0616 | 0.62 | [Link](https://www.lcsc.com/product-detail/C436244.html) |
-| C49066 | CL32A107MQVNNNE | Samsung Electro-Mechanics | 1210 | 100uF ±20% 6.3V Ceramic Capacitor X5R 1210 | 1 | 0.3472 | 0.35 | [Link](https://www.lcsc.com/product-detail/C49066.html) |
-| C5188434 | MX126-5.0-02P-GN01-Cu-S-A | MAX | Through Hole,P=5mm | 2 Position Wire to Board Terminal Block Through Hole 5mm | 20 | 0.0627 | 1.25 | [Link](https://www.lcsc.com/product-detail/C5188434.html) |
-| C258182 | 1N4148 | onsemi | DO-35 | Diode 100V 200mA Through Hole DO-35 | 20 | 0.033 | 0.66 | [Link](https://www.lcsc.com/product-detail/C258182.html) |
-| C2980917 | SR720361W/32ARK | LED | Through Hole | Blue to white 4 70mW Common Cathode 0.36 Through Hole LED Character and Numeric RoHS | 1 | 1.0575 | 1.06 | [Link](https://www.lcsc.com/product-detail/C2980917.html) |
-| C2896924 | CR1/8W-10K±5%-ST52VO | | Through Hole,D2.3xL3.7mm | 10kΩ 125mW 200V Carbon Film Resistor ±350ppm/℃ ±5% Through Hole,D2.3xL3.7mm Through Hole Resistors | 100 | 0.0037 | 0.37 | [Link](https://www.lcsc.com/product-detail/C2896924.html) |
-| C470717 | RK09Y11L0001 | ALPSALPINE | Through Hole | ±30% 10mW 10kΩ Through Hole Rotary Potentiometers, Rheostats RoHS | 1 | 0.8674 | 0.87 | [Link](https://www.lcsc.com/product-detail/C470717.html) |
-| C18186456 | KH-12X12X9H-TJ | kinghelm | Through Hole,12x12mm | Tactile Switch 9mm 12mm x 12mm | 10 | 0.058 | 0.58 | [Link](https://www.lcsc.com/product-detail/C18186456.html) |
-| C20626143 | LCKFB-ESP32S3R8N8 | LCSC-boards- | | Embedded MCU, DSP Evaluation Boards | 1 | 5.4162 | 5.42 | [Link](https://www.lcsc.com/product-detail/C20626143.html) |
-| C20612516 | LM386N(XBLW) | XBLW | DIP-8 | 4mA 4V~12V 1-Channel 700mWx1@8Ω Class AB DIP-8 Audio Amplifiers RoHS | 5 | 0.1075 | 0.54 | [Link](https://www.lcsc.com/product-detail/C20612516.html) |
-| C22767313 | TM1637-DIP20 | TM(Shenzhen Titan Micro Elec) | DIP-20 | 2-Wire Serial Interface 4.5V~5.5V DIP-20 LED Drivers ICs RoHS | 6 | 0.4589 | 2.75 | [Link](https://www.lcsc.com/product-detail/C22767313.html) |
-| TOTAL | | | | | 245 | | 15.58 | |
-
+| LCSC# | MPN | Manufacturer | Package | Description | Quantity | Unit Price ($) | Extended Price ($) | Product Link |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| C49304925 | 330uF10V6.3x11GF | Econd | Through Hole,D6.3xL11mm | 10V ±20% 330uF 140mΩ Through Hole,D6.3xL11mm Aluminum Electrolytic Capacitors | 20 | 0.0225 | 0.45 | https://www.lcsc.com/product-detail/C49304925.html |
+| C2840026 | CG100ME511BPTWBOR | - | Through Hole,D5xL11mm | 10uF 25V Aluminum Electrolytic Capacitors Through Hole,D5xL11mm 2000hrs@105℃ | 50 | 0.0131 | 0.66 | https://www.lcsc.com/product-detail/C2840026.html |
+| C436244 | FM32X104K101EMGPSA | - | 1210 | 100nF ±10% 100V Ceramic Capacitor X7R 1210 | 10 | 0.0616 | 0.62 | https://www.lcsc.com/product-detail/C436244.html |
+| C49066 | CL32A107MQVNNNE | Samsung Electro-Mechanics | 1210 | 100uF ±20% 6.3V Ceramic Capacitor X5R 1210 | 1 | 0.3472 | 0.35 | https://www.lcsc.com/product-detail/C49066.html |
+| C5188434 | MX126-5.0-02P-GN01-Cu-S-A | MAX | Through Hole,P=5mm | 2 Position Wire to Board Terminal Block Through Hole 5mm | 20 | 0.0627 | 1.25 | https://www.lcsc.com/product-detail/C5188434.html |
+| C258182 | 1N4148 | onsemi | DO-35 | Diode 100V 200mA Through Hole DO-35 | 20 | 0.0330 | 0.66 | https://www.lcsc.com/product-detail/C258182.html |
+| C2980917 | SR720361W/32ARK | LED | Through Hole | Blue to white 4 70mW Common Cathode 0.36 Through Hole LED Character and Numeric RoHS | 1 | 1.0575 | 1.06 | https://www.lcsc.com/product-detail/C2980917.html |
+| C2896924 | CR1/8W-10K±5%-ST52VO | - | Through Hole,D2.3xL3.7mm | 10kΩ 125mW 200V Carbon Film Resistor ±350ppm/℃ ±5% Through Hole,D2.3xL3.7mm Through Hole Resistors | 100 | 0.0037 | 0.37 | https://www.lcsc.com/product-detail/C2896924.html |
+| C470717 | RK09Y11L0001 | ALPSALPINE | Through Hole | ±30% 10mW 10kΩ Through Hole Rotary Potentiometers, Rheostats RoHS | 1 | 0.8674 | 0.87 | https://www.lcsc.com/product-detail/C470717.html |
+| C18186456 | KH-12X12X9H-TJ | kinghelm | Through Hole,12x12mm | Tactile Switch 9mm 12mm x 12mm | 10 | 0.0580 | 0.58 | https://www.lcsc.com/product-detail/C18186456.html |
+| C20626143 | LCKFB-ESP32S3R8N8 | LCSC-boards- | - | Embedded MCU, DSP Evaluation Boards | 1 | 5.4162 | 5.42 | https://www.lcsc.com/product-detail/C20626143.html |
+| C20612516 | LM386N(XBLW) | XBLW | DIP-8 | 4mA 4V~12V 1-Channel 700mWx1@8Ω Class AB DIP-8 Audio Amplifiers RoHS | 5 | 0.1075 | 0.54 | https://www.lcsc.com/product-detail/C20612516.html |
+| C22767313 | TM1637-DIP20 | TM(Shenzhen Titan Micro Elec) | DIP-20 | 2-Wire Serial Interface 4.5V~5.5V DIP-20 LED Drivers ICs RoHS | 6 | 0.4589 | 2.75 | https://www.lcsc.com/product-detail/C22767313.html |
+| TOTAL | - | - | - | - | 245 | - | 15.58 | - |
 
 
 
