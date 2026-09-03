@@ -50,7 +50,7 @@ Follow these steps to upload the firmware and sound files to your ESP32-S3 using
   
      ## BOM
 
-     the bom is also present in BOM.csv as well as here
+The bom is also present in BOM.csv as well as here also i need to buy some components more than they are required cuz lcsc has a minimum quantity but it is only adding some dollers cuz those parts are very cheap anyways.  
 
 | LCSC# | MPN | Manufacturer | Package | Description | Quantity | Unit Price ($) | Extended Price ($) | Product Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
