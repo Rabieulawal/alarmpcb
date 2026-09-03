@@ -70,11 +70,10 @@ The bom is also present in BOM.csv as well as here also i need to buy some compo
 | C20626143 | LCKFB-ESP32S3R8N8 | LCSC-boards- | - | Embedded MCU, DSP Evaluation Boards | 1 | 5.4162 | 5.42 | [Link](https://www.lcsc.com/product-detail/C20626143.html) |
 | C20612516 | LM386N(XBLW) | XBLW | DIP-8 | 4mA 4V~12V 1-Channel 700mWx1@8Ω Class AB DIP-8 Audio Amplifiers RoHS | 5 | 0.1075 | 0.54 | [Link](https://www.lcsc.com/product-detail/C20612516.html) |
 | C22767313 | TM1637-DIP20 | TM(Shenzhen Titan Micro Elec) | DIP-20 | 2-Wire Serial Interface 4.5V~5.5V DIP-20 LED Drivers ICs RoHS | 6 | 0.4589 | 2.75 | [Link](https://www.lcsc.com/product-detail/C22767313.html) |
-| **MERCHANDISE TOTAL** | - | - | - | - | **245** | - | **15.58** | - |
-| **DISCOUNT** | - | - | - | - | **1** | - | **-0.20** | - |
-| **SHIPPING FEE** | - | - | - | - | **1** | - | **12.95** | - |
-| **TOTAL** | - | - | - | - | **247** | - | **28.33** | - |
-
+| **MERCHANDISE TOTAL** | - | - | - | - | **245** | - | **10.30** | - |
+| **SHIPPING ESTIMATE** | - | - | - | - | **1** | - | **16.49** | - |
+| **DISCOUNT** | - | - | - | - | **1** | - | **-10.00** | - |
+| **GRAND TOTAL** | - | - | - | - | **247** | - | **16.79** | - |
 
 
 made in easyeda
