@@ -18,7 +18,7 @@ well, i wanted to buy a product like this but it was 50$ with very expensive shi
 <img width="712" height="522" alt="image" src="https://github.com/user-attachments/assets/9cb0a6fc-6c8c-40f4-bb34-7505577f2ac9" />
 
 
-## assembly buide
+## assembly Guide
 
 ### solder all the compnents
 
